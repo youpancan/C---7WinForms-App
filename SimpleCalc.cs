@@ -11,11 +11,11 @@ using System.IO;
 
 namespace WindowsFormsProject
 {
-    public partial class Form5 : Form
+    public partial class SimpleCalc : Form
     {
 
 
-        public Form5()
+        public SimpleCalc()
         {
             InitializeComponent();
         }

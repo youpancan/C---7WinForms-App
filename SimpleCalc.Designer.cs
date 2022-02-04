@@ -1,7 +1,7 @@
 ﻿
 namespace WindowsFormsProject
 {
-    partial class Form5
+    partial class SimpleCalc
     {
         /// <summary>
         /// Required designer variable.

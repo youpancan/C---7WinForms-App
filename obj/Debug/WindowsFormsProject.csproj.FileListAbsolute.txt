@@ -25,3 +25,19 @@ C:\Users\sunny\OneDrive\桌面\WindowsFormsProject\obj\Debug\WindowsFormsProject
 C:\Users\sunny\OneDrive\桌面\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form6.resources
 C:\Users\sunny\OneDrive\桌面\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form4.resources
 C:\Users\sunny\OneDrive\桌面\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form7.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\bin\Debug\WindowsFormsProject.exe.config
+C:\Desktop\WindowsFormsProject-submit to GitHub\bin\Debug\WindowsFormsProject.exe
+C:\Desktop\WindowsFormsProject-submit to GitHub\bin\Debug\WindowsFormsProject.pdb
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.csproj.AssemblyReference.cache
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.Form0.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.LottoMax.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.Lotto649.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.MoneyEx.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.SimpleCalc.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.IP4.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.TempApp.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.Properties.Resources.resources
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.csproj.GenerateResource.cache
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.csproj.CoreCompileInputs.cache
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.exe
+C:\Desktop\WindowsFormsProject-submit to GitHub\obj\Debug\WindowsFormsProject.pdb

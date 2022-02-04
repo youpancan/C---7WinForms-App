@@ -1,7 +1,7 @@
 ﻿
 namespace WindowsFormsProject
 {
-    partial class Form7
+    partial class TempApp
     {
         /// <summary>
         /// Required designer variable.

@@ -11,14 +11,14 @@ using System.IO;
 
 namespace WindowsFormsProject
 {
-    public partial class Form3 : Form
+    public partial class Lotto649 : Form
     {
         //Gobal Variables
         string dir = @"..\TextFile";
         string path = @"..\TextFile\LottoNbrs.txt";
         FileStream fs = null;
 
-        public Form3()
+        public Lotto649()
         {
             InitializeComponent();
         }

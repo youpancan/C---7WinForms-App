@@ -37,31 +37,31 @@ namespace WindowsFormsProject
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form3 frm3 = new Form3();
+            Lotto649 frm3 = new Lotto649();
             frm3.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Form4 frm4 = new Form4();
+            MoneyEx frm4 = new MoneyEx();
             frm4.ShowDialog();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form5 frm5 = new Form5();
+            SimpleCalc frm5 = new SimpleCalc();
             frm5.ShowDialog();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            Form6 frm6 = new Form6();
+            IP4 frm6 = new IP4();
             frm6.ShowDialog();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Form7 frm7 = new Form7();
+            TempApp frm7 = new TempApp();
             frm7.ShowDialog();
         }
 

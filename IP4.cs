@@ -11,10 +11,10 @@ using System.Text.RegularExpressions;
 
 namespace WindowsFormsProject
 {
-    public partial class Form6 : Form
+    public partial class IP4 : Form
     {
         Regex pattern = new Regex(@"^([0-9]{1,3}\.){3}[0-9]{1,3}$");
-        public Form6()
+        public IP4()
         {
             InitializeComponent();
         }

@@ -13,9 +13,9 @@ using System.Text.RegularExpressions;
 
 namespace WindowsFormsProject
 {
-    public partial class Form7 : Form
+    public partial class TempApp : Form
     {
-        public Form7()
+        public TempApp()
         {
             InitializeComponent();
         }

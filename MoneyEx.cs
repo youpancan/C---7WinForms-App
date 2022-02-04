@@ -15,9 +15,9 @@ using System.Text.RegularExpressions;
 /// </summary>
 namespace WindowsFormsProject
 {
-    public partial class Form4 : Form
+    public partial class MoneyEx : Form
     {
-        public Form4()
+        public MoneyEx()
         {
             InitializeComponent();
         }
